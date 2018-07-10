@@ -1,6 +1,6 @@
 # Fishing Portal
 
-[![Build Status](https://travis-ci.org/andreydos/fishing-portal.svg?branch=master)](https://travis-ci.org/andreydos/fishing-portal) [![CircleCI]![CircleCI](https://circleci.com/gh/andreydos/fishing-portal.svg?style=svg)](https://circleci.com/gh/andreydos/fishing-portal)
+[![Build Status](https://travis-ci.org/andreydos/fishing-portal.svg?branch=master)](https://travis-ci.org/andreydos/fishing-portal) [![CircleCI](https://circleci.com/gh/andreydos/fishing-portal.svg?style=shield)](https://circleci.com/gh/andreydos/fishing-portal)
 
 **This project started on Jul 09 2018.**
 

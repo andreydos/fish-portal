@@ -1,6 +1,6 @@
 # Fishing Portal
 
-[![Build Status](https://travis-ci.org/andreydos/fishing-portal.svg?branch=master)](https://travis-ci.org/andreydos/fishing-portal) [![CircleCI](https://circleci.com/gh/andreydos/kremen-fishing-portal.svg?style=svg&circle-token=c548afeb0d2862ceefbd4793558d04b0165dad27)](https://circleci.com/gh/andreydos/kremen-fishing-portal)
+[![Build Status](https://travis-ci.org/andreydos/fishing-portal.svg?branch=master)](https://travis-ci.org/andreydos/fishing-portal) [![CircleCI]![CircleCI](https://circleci.com/gh/andreydos/fishing-portal.svg?style=svg)](https://circleci.com/gh/andreydos/fishing-portal)
 
 **This project started on Jul 09 2018.**
 

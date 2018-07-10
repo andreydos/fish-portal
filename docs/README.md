@@ -1,10 +1,12 @@
-# Vue Enterprise Boilerplate test
+# Fishing Portal
 
-**You diverged from the boilerplate on Jul 09 2018. See [what's been added](https://github.com/frandiox/vue-enterprise-boilerplate/compare/946e153d4d660cd46a362c6e400e787b3c2e6d04...master) since then.**
+[![Build Status](https://travis-ci.org/andreydos/fishing-portal.svg?branch=master)](https://travis-ci.org/andreydos/fishing-portal) [![CircleCI](https://circleci.com/gh/andreydos/kremen-fishing-portal.svg?style=svg&circle-token=c548afeb0d2862ceefbd4793558d04b0165dad27)](https://circleci.com/gh/andreydos/kremen-fishing-portal)
+
+**This project started on Jul 09 2018.**
 
 ## Intro
 
-> A GraphQL ready, very opinionated Vue SPA template for Vue CLI 3
+> A GraphQL ready, very opinionated Vue SPA for Vue CLI 3
 
 [This project](https://github.com/frandiox/vue-graphql-enterprise-boilerplate) is based on the [`vue-enterprise-boilerplate` template](https://github.com/chrisvfritz/vue-enterprise-boilerplate) made by [Chris Fritz](https://github.com/chrisvfritz). This repo includes some extra opinionated features such as components inside folders and GraphQL integration with [Apollo](https://www.apollographql.com/), [Auth0](https://auth0.com/) and [Prisma](https://www.prisma.io/).
 
@@ -20,20 +22,12 @@
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/frandiox/vue-enterprise-boilerplate.git my-new-project
+git clone https://github.com/andreydos/fishing-portal.git fishing-portal
 
 # 2. Enter your newly-cloned folder
-cd my-new-project
+cd fishing-portal
 
-# 3. Replace this README's CI badge with a note about when you started
-# and a link to a compare URL, so that you can always get an overview
-# of new features added to the boilerplate since you cloned.
-node _start.js
-
-# 4. Delete the start script, as there can be only one beginning.
-rm _start.js
-
-# 5. Read the documentation linked below for "Setup and development".
+# 3. Read the documentation linked below for "Setup and development".
 ```
 
 ## Documentation
@@ -55,22 +49,6 @@ Read the [docs here](https://vue-graphql.netlify.com/). Otherwise, this project 
 
 ## FAQ
 
-**Why would I use this boilerplate instead of generating a new project with [Vue CLI](https://github.com/vuejs/vue-cli) directly?**
+### Question 1
 
-Vue CLI aims for flexibility, making it as simple as possible for any team to set up a new project, no matter how big or small, whether it's an app or a library, or what languages and technologies are being used.
-
-This boilerplate makes more assumptions. It assumes you're building a large app, possibly developed by a large team. It also makes a lot of default choices for you, based on what tends to work well for large, enterprise projects. At the same time, it aims to educate and empower users to configure these defaults to ideally suit their specific app and team.
-
-**Why would I use this boilerplate instead of [Nuxt](https://nuxtjs.org/)?**
-
-Nuxt is like a really smart personal assistant, immediately making you more productive by taking care of many concerns _for you_. This boilerplate is more of a personal coach, aiming to educate and empower users to essentially configure their _own_ framework, ideally suited to their app and team.
-
-If what you're building is very well-defined, with requirements and technical challenges that won't drastically change over time, I'd probably recommend Nuxt instead. For the needs of common applications, it's more than up to the task. If you're a startup trying to prove product-market fit and your primary goal is initial development speed, that's also a point in Nuxt's favor.
-
-Here's when you might prefer building a project off the boilerplate instead:
-
-- The requirements for the product are very likely to change over time and you want to maintain maximum flexibility and control.
-- You'd like to focus on developing skills that will transfer across _any_ Vue project.
-- You're working in a large team, so need tooling to help everyone avoid common mistakes, write in a consistent style, and avoid bikeshedding in PRs.
-
-Finally, it's not an either-or situation. This boilerplate demonstrates many useful patterns for building robust applications that can also be applied to Nuxt apps. That means you could build a project with Nuxt, while still using this boilerplate as a study guide.
+The answer for question 1.

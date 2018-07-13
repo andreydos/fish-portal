@@ -8,11 +8,11 @@ export default {
       persistentNavRoutes: [
         {
           name: 'test1',
-          title: 'Test #1',
+          title: 'Test 1',
         },
         {
           name: 'test2',
-          title: 'Test #2',
+          title: 'Test 2',
         },
       ],
     }

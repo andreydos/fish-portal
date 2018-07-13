@@ -1,14 +1,19 @@
 <script>
 import NavBar from '@components/nav-bar'
+import NavBarAdditional from '@components/nav-bar-additional'
 
 export default {
-  components: { NavBar },
+  components: {
+    NavBar,
+    NavBarAdditional,
+  },
 }
 </script>
 
 <template>
   <div :class="$style.container">
     <NavBar/>
+    <NavBarAdditional/>
     <slot/>
   </div>
 </template>
